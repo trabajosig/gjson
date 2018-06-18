@@ -1,4 +1,4 @@
-var = calles{
+var calles = {
 "type": "FeatureCollection",
 "name": "calles",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
